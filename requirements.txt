@@ -1,0 +1,5 @@
+PyVISA
+pandas
+numpy
+pyvisa-py
+gpib-ctypes
